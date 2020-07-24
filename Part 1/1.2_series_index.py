@@ -1,3 +1,8 @@
+
+"""
+인덱스 배열 : Series객체.index
+데이터값 배열 : Series객체.values
+"""
 import pandas as pd
 
 # 리스트를 시리즈로 변환하여 변수 sr에 저장
