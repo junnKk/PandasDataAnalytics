@@ -5,6 +5,11 @@ Created on Wed Jul 22 13:25:47 2020
 @author: wnsru
 """
 
+"""
+행 인덱스 변경: DataFrame 객체.rename(index={기존 인덱스:새 인덱스,...})
+열 이름 변경 : DataFrame 객체.rename(colunms ={기존 이름 : 새 이름 ,...})
+"""
+
 import pandas as pd
 
 # 행 인덱스/열 이름 지정하여 데이터프레임 만들기
