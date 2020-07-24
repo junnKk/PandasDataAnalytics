@@ -5,6 +5,10 @@ Created on Wed Jul 22 11:21:38 2020
 @author: wnsru
 """
 
+"""
+딕셔너리-> 데이터프레임 변환 : pandas.DataFrame(딕셔너리 객체)
+"""
+
 
 import pandas as pd 
 
