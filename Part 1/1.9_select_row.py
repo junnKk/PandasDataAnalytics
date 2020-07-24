@@ -5,6 +5,12 @@ Created on Fri Jul 24 19:38:04 2020
 @author: wnsru
 """
 
+"""
+행 선택 
+loc[] -> 인덱스 이름
+iloc[] -> 정수형 위치 인덱스
+"""
+
 
 import pandas as pd 
 
