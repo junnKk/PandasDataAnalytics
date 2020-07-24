@@ -5,6 +5,11 @@ Created on Fri Jul 24 19:29:10 2020
 @author: wnsru
 """
 
+"""
+행 삭제 : DataFrame 객체.drop( 행 인덱스 또는 배열, axis = 0)  + inplace = True
+열 삭제 : DataFrame 객체.drop( 열 이름 또는 배열, axis = 1)  + inplace = True
+"""
+
 
 import pandas as pd 
 
