@@ -7,6 +7,11 @@ Created on Wed Jul 22 11:29:21 2020
 
 """
 행 인덱스/열 이름 설정 : pandas.DataFrame( 2차원 배열, index = 행 인덱스 배열, columns = 열 이름 배열 )
+
+"""
+"""
+행 인덱스 변경 : DataFrame 객체.index = 새로운 행 인덱스 배열
+열 이름 변경 : DataFrame 객체.columns = 새로운 열 이름 배열
 """
 
 import pandas as pd
