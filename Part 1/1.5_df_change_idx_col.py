@@ -5,6 +5,9 @@ Created on Wed Jul 22 11:29:21 2020
 @author: wnsru
 """
 
+"""
+행 인덱스/열 이름 설정 : pandas.DataFrame( 2차원 배열, index = 행 인덱스 배열, columns = 열 이름 배열 )
+"""
 
 import pandas as pd
 
