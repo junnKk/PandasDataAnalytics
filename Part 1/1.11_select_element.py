@@ -5,6 +5,11 @@ Created on Fri Jul 24 21:12:01 2020
 @author: wnsru
 """
 
+"""
+인덱스 이름 : DataFrame 객체.loc[행 인덱스, 열 이름]
+정수 위치 인덱스 : DataFrame 객체.iloc[행 번호, 열 번호]
+"""
+
 
 import pandas as pd 
 
@@ -51,19 +56,4 @@ print(c)
 c = df.iloc[0:3:2, ::3]
 print(c)
 print(type(c))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
