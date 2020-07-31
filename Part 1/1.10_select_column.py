@@ -6,6 +6,13 @@ Created on Fri Jul 24 20:16:10 2020
 """
 
 
+"""
+열 1 개 선택(시리즈 생성) : DataFrame 객체["열 이름"] 또는  DataFrame 객체.열 이름
+열 n 개 선택(데이터프레임 생성) :  DataFrame 객체 [[열1, 열2, ... , 열n]]
+"""
+
+
+
 import pandas as pd
 
 # DataFrame() 함수로 데이터프레임 변환. 변수 df에 저장
